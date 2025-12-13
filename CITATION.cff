@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this workflow or data, please cite it using the metadata below."
+title: "Sun, Rain & Grain: Climate Impact on Agriculture in Germany"
+authors:
+  - family-names: Khanal
+    given-names: Poshan
+    affiliation: University of Potsdam
+  - family-names: Tansue Nasa
+    given-names: Qazi Novera
+    affiliation: University of Potsdam
+  - family-names: Alzaeem
+    given-names: Joudi
+    affiliation: University of Potsdam
+date-released: 2025-07-11
+version: "1.0.0"
+repository-code: https://gitup.uni-potsdam.de/khanal/sun-rain-grain
+license: MIT
