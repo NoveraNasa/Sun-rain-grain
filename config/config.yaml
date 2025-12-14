@@ -1,0 +1,23 @@
+cities:
+  - Potsdam
+  - Flensburg
+  - Köln
+  - Leipzig
+
+years:
+  - 2017
+  - 2018
+  - 2019
+
+data_paths:
+  weather_dir: "data/weather"
+  maize_dir: "data/maize"
+
+output_dirs:
+  results: "outputs/results"
+  plots: "outputs/plots"
+
+climate_variables:
+  - TMK
+  - RSK
+
