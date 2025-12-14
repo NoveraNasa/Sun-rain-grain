@@ -194,9 +194,4 @@ If you use this workflow or any part of this project, please cite it using the m
 This project is licensed under the MIT License (see \`LICENSE\`).  
 The datasets are reused under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/), crediting DWD and Thünen Institute.
 
-## Group 5: Sun Rain and Grain (Research Software Engineering)
-
-- Poshan Khanal  
-- Qazi Novera Tansue Nasa  
-- Joudi Alzaeem
 
